@@ -1,1 +1,1 @@
-bundle exec jekyll liveserve
+bundle exec jekyll serve --livereload-port 35730

@@ -21,7 +21,7 @@ Hello, I'm Fengyu Liu, a Ph.D. student in the System and Software Security Labor
 My research interests includes **web security** and **LLM-based agent security**. To date, I have published 7 papers at top-tier international security conferences, including IEEE S&P, ACM CCS, and USENIX Security, with one receiving the Distinguished Paper Award at S&P'25. Moreover, my research has been adopted by leading companies such as **Alibaba, ByteDance, and Huawei**, and acknowledged in security advisories by major tech companies including Apple, Microsoft, and Intel.
 
 # 🔥 News
-- [*2025.05*] &nbsp;🎉 One paper accepted by **BlackHat USA 2025**!
+- [*2025.05*] &nbsp;🎉 One talk accepted by **BlackHat USA 2025**!
 - [*2025.05*] &nbsp;🎉 Our paper received <span style="color:#B00C00">**Distinguished Paper Award**</span> at IEEE S&P 2025!
 - [*2025.03*] &nbsp;🎉 One paper accepted by **CCS 2025**!
 - [*2025.03*] &nbsp;🎉 One paper accepted by **S&P 2025**!
@@ -52,8 +52,8 @@ My research interests includes **web security** and **LLM-based agent security**
 -->
 
 # 📖 Educations
-- *2021.09 - now*, Ph.D, Fudan University, Shanghai.
-- *2017.09 - 2021.06*, B.Eng, Northwestern Polytechnical University, Xi'an.
+- *2021.09 - now*, Ph.D, Fudan University, School of Computer Science.
+- *2017.09 - 2021.06*, B.Eng, Northwestern Polytechnical University, School of Computer Science.
 
 # 💻 Internships
 - *2020.04 - 2025.04*, [Keen Lab, Tencent](https://keenlab.tencent.com/), China.
