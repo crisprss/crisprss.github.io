@@ -106,6 +106,9 @@
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
+      {% if author.blog %}
+        <li><a href="{{ author.blog }}"><i class="fas fa-fw fa-link"></i> Blog</a></li>
+      {% endif %}
       <!-- {% if author.cv %}
         <li><a href="{{ author.cv }}"><i class="fa fa-address-card"></i> CV</a></li>
       {% endif %} -->
