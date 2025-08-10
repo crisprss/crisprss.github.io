@@ -32,11 +32,11 @@ My research interests span <strong>web security</strong>, <strong>operating syst
 
 
 # 📝 Publications 
-<span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">USENIX Security'25</span> **Pig in a Poke: Automatically Detecting and Exploiting Link Following Vulnerabilities in Windows File Operations** [<a href="https://crisprss.github.io/papers/linkzard-security25.pdf">PDF</a>]  
+<span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">USENIX Security'25</span> **Pig in a Poke: Automatically Detecting and Exploiting Link Following Vulnerabilities in Windows File Operations** [[PDF](/paper/linkzard-security25.pdf)]  
 <u>Bocheng Xiang</u>, Yuan Zhang, Fengyu Liu, Hao Huang, Zihan Lin, Min Yang.  
 *In Proceedings of the 34th USENIX Security Symposium (USENIX Security)*, August 2025. <span style="color:#b30000;">(CCF-A)</span>
 
-<span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">USENIX Security'25</span> **Effective Directed Fuzzing with Hierarchical Scheduling for Web Vulnerability Detection** [<a href="https://crisprss.github.io/papers/WDFuzz-security25.pdf">PDF</a>]  
+<span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">USENIX Security'25</span> **Effective Directed Fuzzing with Hierarchical Scheduling for Web Vulnerability Detection** [[PDF](/paper/WDFuzz-security25.pdf)]  
 Zihan Lin, Yuan Zhang, Jiarun Dai, Xinyou Huang, <u>Bocheng Xiang</u>, Guangliang Yang, Letian Yuan, Lei Zhang, Fengyu Liu, Tian Chen, Min Yang.  
 *In Proceedings of the 34th USENIX Security Symposium (USENIX Security)*, August 2025. <span style="color:#b30000;">(CCF-A)</span> 
 
