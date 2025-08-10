@@ -24,11 +24,11 @@ I am also the captain of Whitzard, the CTF team of Fudan University.
 My research interests span <strong>web security</strong>, <strong>operating system security</strong>, and <strong>Java security</strong>. To date, I have published two papers at top-tier security conferences, both in <em>USENIX Security</em>. In addition to academic research, I have discovered hundreds of high-impact 0-day vulnerabilities, which have been acknowledged in security advisories by major technology companies, including Apple, Microsoft, Intel, HP, Tencent, and VMware. Many of these vulnerabilities have received monetary rewards, with my total bug bounty earnings exceeding <strong>$50,000</strong>.
 
 # 🔥 News
-- [2025.07]  🎉 I've made <a href="https://msrc.microsoft.com/blog/2025/07/congratulations-to-the-msrc-2025-most-valuable-security-researchers/">2025 MSRC MVR <strong></strong></a>!
+- [2025.07]  🎉 I've made <a href="https://msrc.microsoft.com/blog/2025/07/congratulations-to-the-msrc-2025-most-valuable-security-researchers/"><strong>2025 MSRC MVR</strong></a>!
 - [2025.06]  🎉 One paper accepted by <strong>USENIX Security 2025</strong>!
 - [2025.05]  🎉 One talk accepted by <strong>BlackHat USA 2025</strong>!
 - [2024.12]  🎉 One paper accepted by <strong>USENIX Security 2025</strong>!
-- [2024.08]  🎉 I've made <a href="https://msrc.microsoft.com/blog/2024/08/congratulations-to-the-msrc-2024-most-valuable-security-researchers/">2024 MSRC MVR</strong></a>!
+- [2024.08]  🎉 I've made <a href="https://msrc.microsoft.com/blog/2024/08/congratulations-to-the-msrc-2024-most-valuable-security-researchers/"><strong>2024 MSRC MVR</strong></a>!
 
 
 # 📝 Publications 
