@@ -61,7 +61,7 @@ Zihan Lin, Yuan Zhang, Jiarun Dai, Xinyou Huang, <u>Bocheng Xiang</u>, Guanglian
 - [Jul. 2024] Got 🥉 at 9th <a href="https://shwas.dhu.edu.cn/2024/0704/c23272a348194/page.htm">Shanghai University Student Cybersecurity Competition</a> with 「Whitzard」
 - [Jul. 2024] Got 🥉 at <a href="http://www.ciscn.cn/announcement/view/357">17th National College Student Information Security Competition</a> with 「Whitzard」
 - [Aug. 2023] Got 🏅 at <a href="https://www.freebuf.com/news/376231.html">2023 "Peak Geek" Cybersecurity Skills Challenge</a> with 「小学生」
-- [Dec. 2022] Got 🏅 at 5th "Qiangwang" (cyberspace power) International Elite Challenge on Cyber Mimic Defense with 「Dubhe」
+- [Dec. 2022] Got 🏅 at <a href="https://mp.weixin.qq.com/s/qyvl5Ny6zWCA5n1cEItEfQ">5th "Qiangwang" (cyberspace power) International Elite Challenge on Cyber Mimic Defense</a> with 「Dubhe」
 - [Oct. 2021] Got 🏅 at XCTF-SCTF2021 with 「Dubhe」
 - [Sep. 2021] Got 🥈 at TCTF2021 Rising Star with 「emmmm」
 
