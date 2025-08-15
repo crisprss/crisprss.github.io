@@ -25,7 +25,7 @@ My research interests span <strong>web security</strong>, <strong>operating syst
 
 # 🔥 News
 - [2025.07]  🎉 I've made <a href="https://msrc.microsoft.com/blog/2025/07/congratulations-to-the-msrc-2025-most-valuable-security-researchers/"><strong>2025 MSRC MVR</strong></a>!
-- [2025.06]  🎉 One paper accepted by <strong>USENIX Security 2025</strong>!
+- [2025.06]  🎉 One paper received <font color="#B00C00">Honerable Mention Award</font> at <strong>USENIX Security 2025</strong>!
 - [2025.05]  🎉 One talk accepted by <strong>BlackHat USA 2025</strong>! [[Talk Abstract](https://www.blackhat.com/us-25/briefings/schedule/#detecting-taint-style-vulnerabilities-in-microservice-structured-web-applications-46427)]
 - [2024.12]  🎉 One paper accepted by <strong>USENIX Security 2025</strong>!
 - [2024.08]  🎉 I've made <a href="https://msrc.microsoft.com/blog/2024/08/congratulations-to-the-msrc-2024-most-valuable-security-researchers/"><strong>2024 MSRC MVR</strong></a>!
@@ -34,7 +34,8 @@ My research interests span <strong>web security</strong>, <strong>operating syst
 # 📝 Publications 
 <span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">USENIX Security'25</span> **Pig in a Poke: Automatically Detecting and Exploiting Link Following Vulnerabilities in Windows File Operations** [[PDF](/paper/linkzard-security25.pdf)]  
 <u>Bocheng Xiang</u>, Yuan Zhang, Fengyu Liu, Hao Huang, Zihan Lin, Min Yang.  
-*In Proceedings of the 34th USENIX Security Symposium (USENIX Security)*, August 2025. <span style="color:#b30000;">(CCF-A)</span>
+*In Proceedings of the 34th USENIX Security Symposium (USENIX Security)*, August 2025. <span style="color:#b30000;">(CCF-A)</span>  
+**<font color="#B00C00">&#9733; Honerable Mention Award (6.1%=25/407)</font>** [AR: 17.1%=407/2385]
 
 <span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">USENIX Security'25</span> **Effective Directed Fuzzing with Hierarchical Scheduling for Web Vulnerability Detection** [[PDF](/paper/WDFuzz-security25.pdf)]  
 Zihan Lin, Yuan Zhang, Jiarun Dai, Xinyou Huang, <u>Bocheng Xiang</u>, Guangliang Yang, Letian Yuan, Lei Zhang, Fengyu Liu, Tian Chen, Min Yang.  
