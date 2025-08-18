@@ -21,7 +21,8 @@ Hello👋! I'm <strong>Bocheng Xiang</strong>, a Ph.D. student in the
 at Fudan University, advised by Prof. <a href="https://yuanxzhang.github.io/">Yuan Zhang</a>.
 I am also the captain of Whitzard, the CTF team of Fudan University.
 
-My research interests span <strong>web security</strong>, <strong>operating system security</strong>, and <strong>Java security</strong>. To date, I have published two papers at top-tier security conferences, both in <em>USENIX Security</em>. In addition to academic research, I have discovered hundreds of high-impact 0-day vulnerabilities, which have been acknowledged in security advisories by major technology companies, including Apple, Microsoft, Intel, HP, Tencent, and VMware. Many of these vulnerabilities have received monetary rewards, with my total bug bounty earnings exceeding <strong>$50,000</strong>.
+My research interests span <strong>web security</strong>, <strong>operating system security</strong>, and <strong>Java security</strong>. To date, I have published two papers at top-tier security conferences, both in <em>USENIX Security</em>. In addition to academic research, I have discovered hundreds of high-impact 0-day vulnerabilities, which have been acknowledged in security advisories by major technology companies, including Apple, Microsoft, Intel, HP, Tencent, and VMware. Many of these vulnerabilities have received monetary rewards, with my total bug bounty earnings exceeding <strong>$50,000</strong>.  
+Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
 
 # 🔥 News
 - [2025.07]  🎉 I've made <a href="https://msrc.microsoft.com/blog/2025/07/congratulations-to-the-msrc-2025-most-valuable-security-researchers/"><strong>2025 MSRC MVR</strong></a>!
