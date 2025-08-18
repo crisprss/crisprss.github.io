@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+<url>
+ <loc>mailto:bcxiang23@m.fudan.edu.cn</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://twitter.com/crispr_x</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://github.com/crisprss</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://scholar.google.com/citations?user=gl4Vfb0AAAAJ</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://secsys.fudan.edu.cn/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://yuanxzhang.github.io/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://msrc.microsoft.com/blog/2025/07/congratulations-to-the-msrc-2025-most-valuable-security-researchers/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://www.blackhat.com/us-25/briefings/schedule/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://msrc.microsoft.com/blog/2024/08/congratulations-to-the-msrc-2024-most-valuable-security-researchers/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://www.fudan.edu.cn/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://scss.bupt.edu.cn/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://www.bupt.edu.cn/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>http://www.ciscn.cn/upload/file/20250723/1753252788961904.pdf</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>http://www.ccsssc.com/notice?id=1924760535486386176</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://cpipc.acge.org.cn/sysFile/downFile.do?fileId=3955890483b04ef59f15fccb89d4a535</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://shwas.dhu.edu.cn/2024/0704/c23272a348194/page.htm</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>http://www.ciscn.cn/announcement/view/357</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://www.freebuf.com/news/376231.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://mp.weixin.qq.com/s/qyvl5Ny6zWCA5n1cEItEfQ</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://keenlab.tencent.com/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://www.chaitin.cn/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://crisprss.github.io/</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://crisprss.github.io/paper/linkzard-security25.pdf</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://crisprss.github.io/paper/WDFuzz-security25.pdf</loc>
+ <priority>0.3</priority>
+ <lastmod>2025-08-18</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+</urlset>
