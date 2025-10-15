@@ -25,8 +25,8 @@ My research interests span <strong>web security</strong>, <strong>operating syst
 Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
 
 # 🔥 News
-- [2025.10] 🎉 <a href="https://powerofcommunity.net/2025/talk/bocheng-xiang-heechan-kim.html">One talk about Link Following Attack</a> accepted by PoC 2025! See you in Seoul, South Korea!
-- [2025.09] 🎉 <a href="https://www.blackhat.com/eu-25/briefings/schedule/index.html#make-agent-defeat-agent-automatic-detection-of-taint-style-vulnerabilities-in-llm-based-agents-48117">One talk about LLM agent security</a> accepted by BlackHat Europe 2025!
+- [2025.10]  🎉 One talk about Link Following Attack</a> accepted by PoC 2025! See you in Seoul, South Korea! [[Talk Abstract](https://powerofcommunity.net/2025/talk/bocheng-xiang-heechan-kim.html)]
+- [2025.09]  🎉 One talk about LLM agent security</a> accepted by BlackHat Europe 2025! [[Talk Abstract](https://www.blackhat.com/eu-25/briefings/schedule/index.html#make-agent-defeat-agent-automatic-detection-of-taint-style-vulnerabilities-in-llm-based-agents-48117)]
 - [2025.07]  🎉 I've made <a href="https://msrc.microsoft.com/blog/2025/07/congratulations-to-the-msrc-2025-most-valuable-security-researchers/"><strong>2025 MSRC MVR</strong></a>!
 - [2025.06]  🎉 One paper received <font color="#B00C00">Honerable Mention Award</font> at <strong>USENIX Security 2025</strong>!
 - [2025.05]  🎉 One talk accepted by <strong>BlackHat USA 2025</strong>! [[Talk Abstract](https://www.blackhat.com/us-25/briefings/schedule/#detecting-taint-style-vulnerabilities-in-microservice-structured-web-applications-46427)]
