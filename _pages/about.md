@@ -26,6 +26,7 @@ Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
 
 # 🔥 News
 - [2025.12]  🎉 One paper accepted by <strong>NDSS 2026</strong>, hope to see you in San Diego!
+- [2025.12]  🎉 Got first prize(No.5) at <a href="https://cpipc.acge.org.cn/cw/hp/2c90800c8093eef401809d33b36f0652#contest-news">4rd China Postgraduate Cybersecurity Innovation</a> with 「Whitzard」
 - [2025.10]  🎉 One talk about Link Following Attack accepted by <strong>PoC 2025</strong>! See you in Seoul, South Korea! [[Talk Abstract](https://powerofcommunity.net/2025/talk/bocheng-xiang-heechan-kim.html)]
 - [2025.09]  🎉 One talk about LLM agent security accepted by <strong>BlackHat Europe 2025</strong>! [[Talk Abstract](https://www.blackhat.com/eu-25/briefings/schedule/index.html#make-agent-defeat-agent-automatic-detection-of-taint-style-vulnerabilities-in-llm-based-agents-48117)]
 - [2025.07]  🎉 I've made <a href="https://msrc.microsoft.com/blog/2025/07/congratulations-to-the-msrc-2025-most-valuable-security-researchers/"><strong>2025 MSRC MVR</strong></a>!
