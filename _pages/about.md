@@ -63,6 +63,7 @@ Zihan Lin, Yuan Zhang, Jiarun Dai, Xinyou Huang, <u>Bocheng Xiang</u>, Guanglian
 <a href="https://scss.bupt.edu.cn/">School of Cyberspace Security</a>, <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>
 
 # 🏅 Rewards
+- [Dec. 2025] Got first prize(No.5) at <a href="https://cpipc.acge.org.cn//pw/detail/2c9080189ac2d288019ade60232218a1">4rd China Postgraduate Cybersecurity Innovation</a> with 「Whitzard」
 - [Jul. 2025] Got first prize at <a href="http://www.ciscn.cn/upload/file/20250723/1753252788961904.pdf">18th National College Student Information Security Competition</a> with 「Whitzard」
 - [May. 2025] Got 🏅 at <a href="http://www.ccsssc.com/notice?id=1924760535486386176">18th National College Student Software Innovation Competition</a> with 「复旦大学攻防赛1队」
 - [Dec. 2024] Got first prize(No.4) at <a href="https://cpipc.acge.org.cn/sysFile/downFile.do?fileId=3955890483b04ef59f15fccb89d4a535">3rd China Postgraduate Cybersecurity Innovation</a> with 「Whitzard」
