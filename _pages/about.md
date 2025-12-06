@@ -25,6 +25,7 @@ My research interests span <strong>web security</strong>, <strong>operating syst
 Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
 
 # 🔥 News
+- [2025.12]  🎉 One paper accepted by <strong>NDSS 2025</strong>, hope to see you in San Diego!
 - [2025.10]  🎉 One talk about Link Following Attack accepted by <strong>PoC 2025</strong>! See you in Seoul, South Korea! [[Talk Abstract](https://powerofcommunity.net/2025/talk/bocheng-xiang-heechan-kim.html)]
 - [2025.09]  🎉 One talk about LLM agent security accepted by <strong>BlackHat Europe 2025</strong>! [[Talk Abstract](https://www.blackhat.com/eu-25/briefings/schedule/index.html#make-agent-defeat-agent-automatic-detection-of-taint-style-vulnerabilities-in-llm-based-agents-48117)]
 - [2025.07]  🎉 I've made <a href="https://msrc.microsoft.com/blog/2025/07/congratulations-to-the-msrc-2025-most-valuable-security-researchers/"><strong>2025 MSRC MVR</strong></a>!
@@ -35,6 +36,10 @@ Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
 
 
 # 📝 Publications 
+<span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">NDSS'26</span> **LinkGuard: A Lightweight State-Aware Runtime Guard Against Link Following Attacks in Windows File System** (to appear)   
+<u>Bocheng Xiang</u>, Yuan Zhang, Hao Huang, Fengyu Liu, Youkun Shi.  
+*In Proceedings of the 33rd Network and Distributed System Security Symposium (NDSS), San Diego, CA, USA, Feb 23-27, 2026. <span style="color:#b30000;">(CCF-A)</span>  
+
 <span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">USENIX Security'25</span> **Pig in a Poke: Automatically Detecting and Exploiting Link Following Vulnerabilities in Windows File Operations** [[PDF](/paper/linkzard-security25.pdf)]  
 <u>Bocheng Xiang</u>, Yuan Zhang, Fengyu Liu, Hao Huang, Zihan Lin, Min Yang.  
 *In Proceedings of the 34th USENIX Security Symposium (USENIX Security)*, August 2025. <span style="color:#b30000;">(CCF-A)</span>  
