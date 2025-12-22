@@ -21,7 +21,7 @@ Hello👋! I'm <strong>Bocheng Xiang</strong>, a Ph.D. student in the
 at Fudan University, advised by Prof. <a href="https://yuanxzhang.github.io/">Yuan Zhang</a>.
 I am also the captain of Whitzard, the CTF team of Fudan University.
 
-My research interests span <strong>web security</strong>, <strong>operating system security</strong>, and <strong>Java security</strong>. To date, I have published two papers at top-tier security conferences, both in <em>USENIX Security</em>. In addition to academic research, I have discovered hundreds of high-impact 0-day vulnerabilities, which have been acknowledged in security advisories by major technology companies, including Apple, Microsoft, Intel, HP, Tencent, and VMware. Many of these vulnerabilities have received monetary rewards, with my total bug bounty earnings exceeding <strong>$50,000</strong>.  
+My research interests span <strong>web security</strong>, <strong>operating system security</strong>, and <strong>Java security</strong>. To date, I have published three papers at top-tier security conferences, in <em>USENIX Security、NDSS</em>. In addition to academic research, I have discovered hundreds of high-impact 0-day vulnerabilities, which have been acknowledged in security advisories by major technology companies, including Apple, Microsoft, Intel, HP, Tencent, and VMware. Many of these vulnerabilities have received monetary rewards, with my total bug bounty earnings exceeding <strong>$80,000</strong>.  
 Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
 
 # 🔥 News
@@ -44,7 +44,7 @@ Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
 <span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">USENIX Security'25</span> **Pig in a Poke: Automatically Detecting and Exploiting Link Following Vulnerabilities in Windows File Operations** [[PDF](/paper/linkzard-security25.pdf)]  
 <u>Bocheng Xiang</u>, Yuan Zhang, Fengyu Liu, Hao Huang, Zihan Lin, Min Yang.  
 *In Proceedings of the 34th USENIX Security Symposium (USENIX Security)*, August 2025. <span style="color:#b30000;">(CCF-A)</span>  
-**<font color="#B00C00">&#9733; Honerable Mention Award (6.1%=25/407)</font>** [AR: 17.1%=407/2385]
+**<font color="#B00C00">&#9733; <a href="https://www.usenix.org/sites/default/files/sec25_honorable_mentions.pdf">Honerable Mention Award</a> (6.1%=25/407)</font>** [AR: 17.1%=407/2385]
 
 <span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">USENIX Security'25</span> **Effective Directed Fuzzing with Hierarchical Scheduling for Web Vulnerability Detection** [[PDF](/paper/WDFuzz-security25.pdf)]  
 Zihan Lin, Yuan Zhang, Jiarun Dai, Xinyou Huang, <u>Bocheng Xiang</u>, Guangliang Yang, Letian Yuan, Lei Zhang, Fengyu Liu, Tian Chen, Min Yang.  
