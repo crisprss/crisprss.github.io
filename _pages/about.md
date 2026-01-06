@@ -19,7 +19,7 @@ redirect_from:
 Hello👋! I'm <strong>Bocheng Xiang</strong>, a Ph.D. student in the
 <a href="https://secsys.fudan.edu.cn/">System and Software Security Laboratory</a>
 at Fudan University, advised by Prof. <a href="https://yuanxzhang.github.io/">Yuan Zhang</a>.
-I am also the captain of Whitzard, the CTF team of Fudan University.
+I'm the speaker in Blackhat USA / Europe, and PoC. I am also the captain of Whitzard, the CTF team of Fudan University.
 
 My research interests span <strong>web security</strong>, <strong>operating system security</strong>, and <strong>Java security</strong>. To date, I have published three papers at top-tier security conferences, in <em>USENIX Security、NDSS</em>. In addition to academic research, I have discovered hundreds of high-impact 0-day vulnerabilities, which have been acknowledged in security advisories by major technology companies, including Apple, Microsoft, Intel, HP, Tencent, and VMware. Many of these vulnerabilities have received monetary rewards, with my total bug bounty earnings exceeding <strong>$80,000</strong>.  
 Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
@@ -56,6 +56,13 @@ Zihan Lin, Yuan Zhang, Jiarun Dai, Xinyou Huang, <u>Bocheng Xiang</u>, Guanglian
  
 - *2022.09*: 1st Place of The 13th National College Student Information Security Contest (Final Round) 🏆
 -->
+
+# 💬 Conferences 
+[2025.08] <a href="https://blackhat.com/us-25/briefings/schedule/#detecting-taint-style-vulnerabilities-in-microservice-structured-web-applications-46427">Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications</a>  <strong>Blackhat USA 2025</strong>
+
+[2025.11] <a href="https://powerofcommunity.net/2025/talk/bocheng-xiang-heechan-kim.html">Follow the Link: Building Full-Chain Local Privilege Escalation on Windows</a> <strong>PoC 2025</strong>
+
+[2025.12] <a href="https://blackhat.com/eu-25/briefings/schedule/#make-agent-defeat-agent-automatic-detection-of-taint-style-vulnerabilities-in-llm-based-agents-48117">Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents</a> <strong>Blackhat Europe 2025</strong>
 
 # 📖 Educations
 - Ph.D. in National Security, 2023-2028 <em>(expected)</em>
