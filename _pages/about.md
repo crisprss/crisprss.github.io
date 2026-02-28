@@ -38,7 +38,7 @@ Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
 
 
 # 📝 Publications 
-<span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">NDSS'26</span> **LinkGuard: A Lightweight State-Aware Runtime Guard Against Link Following Attacks in Windows File System** (to appear)   
+<span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">NDSS'26</span> **LinkGuard: A Lightweight State-Aware Runtime Guard Against Link Following Attacks in Windows File System** [[PDF](/paper/linkguard.pdf)] 
 <u>Bocheng Xiang</u>, Yuan Zhang, Hao Huang, Fengyu Liu, Youkun Shi.  
 *In Proceedings of the 33rd Network and Distributed System Security Symposium (NDSS), San Diego, CA, USA, Feb 23-27, 2026. <span style="color:#b30000;">(CCF-A)</span>  
 
