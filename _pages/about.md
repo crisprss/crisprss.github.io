@@ -64,7 +64,7 @@ Zihan Lin, Yuan Zhang, Jiarun Dai, Xinyou Huang, <u>Bocheng Xiang</u>, Guanglian
 
 [2025.12] <a href="https://blackhat.com/eu-25/briefings/schedule/#make-agent-defeat-agent-automatic-detection-of-taint-style-vulnerabilities-in-llm-based-agents-48117">Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents</a> <strong>Blackhat Europe 2025</strong>
 
-[2026.3] <a href="https://reverse-2026.sessionize.com/session/1076809">Reverse-Engineering Windows Services for Full-Chain LPE</a> <strong>Re//verse 2026</strong>
+[2026.3] <a href="https://reverse-2026.sessionize.com/session/1076809">Reverse-Engineering Windows Services for Full-Chain LPE</a> <strong>Re//verse 2026</strong> , Youtube Video: [Here](https://www.youtube.com/watch?v=kGZp64sYQvM&t=19s)
 
 # 📖 Educations
 - Ph.D. in National Security, 2023-2028 <em>(expected)</em>
@@ -88,7 +88,7 @@ Zihan Lin, Yuan Zhang, Jiarun Dai, Xinyou Huang, <u>Bocheng Xiang</u>, Guanglian
 
 # 💻 Internships
 - 2022.04 - 2023.09, <a href="https://keenlab.tencent.com/">Keen Lab</a>, Tencent, China.
-- 2021.07 - 2021.10, Security Strategy Research Team, <a href="https://www.chaitin.cn/">Chaitin</a>, China.]
+- 2021.07 - 2021.10, Security Strategy Research Team, <a href="https://www.chaitin.cn/">Chaitin</a>, China.
 
 
 # 📖 Services
