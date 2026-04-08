@@ -38,16 +38,16 @@ Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
 
 
 # 📝 Publications 
-<span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">NDSS'26</span> **LinkGuard: A Lightweight State-Aware Runtime Guard Against Link Following Attacks in Windows File System** [[PDF](/paper/linkguard.pdf)]  
+<span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">NDSS'26</span> **LinkGuard: A Lightweight State-Aware Runtime Guard Against Link Following Attacks in Windows File System** [[PDF](/paper/linkguard.pdf)][[Code](https://zenodo.org/records/17481221)]
 <u>Bocheng Xiang</u>, Yuan Zhang, Hao Huang, Fengyu Liu, Youkun Shi.  
 *In Proceedings of the 33rd Network and Distributed System Security Symposium (NDSS), San Diego, CA, USA, Feb 23-27, 2026. <span style="color:#b30000;">(CCF-A)</span>  
 
-<span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">USENIX Security'25</span> **Pig in a Poke: Automatically Detecting and Exploiting Link Following Vulnerabilities in Windows File Operations** [[PDF](/paper/linkzard-security25.pdf)]  
+<span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">USENIX Security'25</span> **Pig in a Poke: Automatically Detecting and Exploiting Link Following Vulnerabilities in Windows File Operations** [[PDF](/paper/linkzard-security25.pdf)] [[Code](https://zenodo.org/records/15617437)] 
 <u>Bocheng Xiang</u>, Yuan Zhang, Fengyu Liu, Hao Huang, Zihan Lin, Min Yang.  
 *In Proceedings of the 34th USENIX Security Symposium (USENIX Security)*, August 2025. <span style="color:#b30000;">(CCF-A)</span>  
 **<font color="#B00C00">&#9733; <a href="https://www.usenix.org/sites/default/files/sec25_honorable_mentions.pdf">Honerable Mention Award</a> (6.1%=25/407)</font>** [AR: 17.1%=407/2385]
 
-<span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">USENIX Security'25</span> **Effective Directed Fuzzing with Hierarchical Scheduling for Web Vulnerability Detection** [[PDF](/paper/WDFuzz-security25.pdf)]  
+<span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">USENIX Security'25</span> **Effective Directed Fuzzing with Hierarchical Scheduling for Web Vulnerability Detection** [[PDF](/paper/WDFuzz-security25.pdf)] [[Code](https://zenodo.org/records/15128608)] 
 Zihan Lin, Yuan Zhang, Jiarun Dai, Xinyou Huang, <u>Bocheng Xiang</u>, Guangliang Yang, Letian Yuan, Lei Zhang, Fengyu Liu, Tian Chen, Min Yang.  
 *In Proceedings of the 34th USENIX Security Symposium (USENIX Security)*, August 2025. <span style="color:#b30000;">(CCF-A)</span> 
 
