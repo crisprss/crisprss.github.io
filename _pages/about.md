@@ -21,10 +21,11 @@ Hello👋! I'm <strong>Bocheng Xiang</strong>, a Ph.D. student in the
 at Fudan University, advised by Prof. <a href="https://yuanxzhang.github.io/">Yuan Zhang</a>.
 I'm the speaker in Blackhat USA / Europe, and PoC. I am also the captain of Whitzard, the CTF team of Fudan University.
 
-My research interests span <strong>Web security</strong>, <strong>operating system security</strong>, and <strong>Agent security</strong>. To date, I have published three papers at top-tier security conferences, in <em>USENIX Security、NDSS</em>. In addition to academic research, I have discovered hundreds of high-impact 0-day vulnerabilities, which have been acknowledged in security advisories by major technology companies, including Apple, Microsoft, Intel, HP, Tencent, and VMware. Many of these vulnerabilities have received monetary rewards, with my total bug bounty earnings exceeding <strong>$80,000</strong>.  
+My research interests span <strong>Web security</strong>, <strong>operating system security</strong>, and <strong>Agent security</strong>. To date, I have published five papers at top-tier security conferences, in <em>USENIX Security、NDSS、CCS</em>. In addition to academic research, I have discovered hundreds of high-impact 0-day vulnerabilities, which have been acknowledged in security advisories by major technology companies, including Apple, Microsoft, Intel, HP, Tencent, and VMware. Many of these vulnerabilities have received monetary rewards, with my total bug bounty earnings exceeding <strong>$80,000</strong>.  
 Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
 
 # 🔥 News
+- [2026.04]  🎉 Two paper accepted by <strong>CCS 2026</strong>,shout out to Dr.Piaoling! 
 - [2026.01]  🎉 One talk about "reverse engineering of ALPC" accepted by <strong>RE//verse 2026</strong>! See you in Orlando, US! [[Talk Abstract](https://reverse-2026.sessionize.com/session/1076809)]
 - [2025.12]  🎉 One paper accepted by <strong>NDSS 2026</strong>, hope to see you in San Diego!
 - [2025.12]  🎉 Got first prize(No.5) at <a href="https://cpipc.acge.org.cn/cw/hp/2c90800c8093eef401809d33b36f0652#contest-news">4rd China Postgraduate Cybersecurity Innovation</a> with 「Whitzard」
@@ -38,6 +39,15 @@ Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
 
 
 # 📝 Publications 
+<span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">CCS'26</span> **PHPBench: Automated Generation of Verifiable and Hierarchical Benchmarks for PHP Web Fuzzing** [To be appeared]  
+Youkun Shi, Yuan Zhang, Lei Zhang, Jiarun Dai, Tianhao Bai, Fengyu Liu, <u>Bocheng Xiang</u>, Xiapu Luo, Min Yang.  
+*In Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS), November 2026. <span style="color:#b30000;">(CCF-A)</span>  
+
+
+<span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">CCS'26</span> **Reproducing Web Application Vulnerabilities with Patch-Guided Routing Inference and Sink Exploration** [To be appeared]  
+Youkun Shi, Yuan Zhang, Feng Xue, Jiarun Dai, Lei Zhang, Fengyu Liu, <u>Bocheng Xiang</u>, Xiapu Luo.  
+*In Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS), November 2026. <span style="color:#b30000;">(CCF-A)</span>  
+
 <span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">NDSS'26</span> **LinkGuard: A Lightweight State-Aware Runtime Guard Against Link Following Attacks in Windows File System** [[PDF](/paper/linkguard.pdf)][[Code](https://zenodo.org/records/17481221)]  
 <u>Bocheng Xiang</u>, Yuan Zhang, Hao Huang, Fengyu Liu, Youkun Shi.  
 *In Proceedings of the 33rd Network and Distributed System Security Symposium (NDSS), San Diego, CA, USA, Feb 23-27, 2026. <span style="color:#b30000;">(CCF-A)</span>  
