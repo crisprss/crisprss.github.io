@@ -25,7 +25,8 @@ My research interests span <strong>Web security</strong>, <strong>operating syst
 Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
 
 # 🔥 News
-- [2026.04]  🎉 Two paper accepted by <strong>CCS 2026</strong>,shout out to Dr.Piaoling! 
+- [2026.05]  🎉 One paper accepted by <strong>ACM CCS 2026</strong>, hope to see you in the Hague! 
+- [2026.04]  🎉 Two paper accepted by <strong>ACM CCS 2026</strong>,shout out to Dr.Piaoling! 
 - [2026.01]  🎉 One talk about "reverse engineering of ALPC" accepted by <strong>RE//verse 2026</strong>! See you in Orlando, US! [[Talk Abstract](https://reverse-2026.sessionize.com/session/1076809)]
 - [2025.12]  🎉 One paper accepted by <strong>NDSS 2026</strong>, hope to see you in San Diego!
 - [2025.12]  🎉 Got first prize(No.5) at <a href="https://cpipc.acge.org.cn/cw/hp/2c90800c8093eef401809d33b36f0652#contest-news">4rd China Postgraduate Cybersecurity Innovation</a> with 「Whitzard」
@@ -39,6 +40,10 @@ Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
 
 
 # 📝 Publications 
+<span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">CCS'26</span> **From Fix to Flaw: Understanding and Revealing Incomplete Patches for Link Following Vulnerabilities** [To be appeared]  
+<u>Bocheng Xiang</u>, Yuan Zhang, Hao Huang, Youkun Shi.  
+*In Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS), November 2026. <span style="color:#b30000;">(CCF-A)</span>  
+
 <span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">CCS'26</span> **PHPBench: Automated Generation of Verifiable and Hierarchical Benchmarks for PHP Web Fuzzing** [To be appeared]  
 Youkun Shi, Yuan Zhang, Lei Zhang, Jiarun Dai, Tianhao Bai, Fengyu Liu, <u>Bocheng Xiang</u>, Xiapu Luo, Min Yang.  
 *In Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS), November 2026. <span style="color:#b30000;">(CCF-A)</span>  
@@ -84,6 +89,7 @@ Zihan Lin, Yuan Zhang, Jiarun Dai, Xinyou Huang, <u>Bocheng Xiang</u>, Guanglian
 <a href="https://scss.bupt.edu.cn/">School of Cyberspace Security</a>, <a href="https://www.bupt.edu.cn/">Beijing University of Posts and Telecommunications</a>
 
 # 🏅 Rewards
+- [May. 2026] Got 🏅 at <a href="http://www.ccsssc.com/">The 9th China University Intelligent Robot Innovation Competition - Software System Security Competition </a> with 「复旦大学攻防赛1队」
 - [Dec. 2025] Got first prize(No.5) at <a href="https://cpipc.acge.org.cn//pw/detail/2c9080189ac2d288019ade60232218a1">4rd China Postgraduate Cybersecurity Innovation</a> with 「Whitzard」
 - [Jul. 2025] Got first prize at <a href="http://www.ciscn.cn/upload/file/20250723/1753252788961904.pdf">18th National College Student Information Security Competition</a> with 「Whitzard」
 - [May. 2025] Got 🏅 at <a href="http://www.ccsssc.com/notice?id=1924760535486386176">18th National College Student Software Innovation Competition</a> with 「复旦大学攻防赛1队」
