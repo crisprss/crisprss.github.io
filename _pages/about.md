@@ -25,6 +25,7 @@ My research interests span <strong>Web security</strong>, <strong>operating syst
 Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
 
 # 🔥 News
+- [2026.06]  🎉 One talk about "Kernal and Userland Logic LPE in Windows" accepted by <strong>offbyone</strong>! See you in Singapore! [[Talk Abstract](https://offbyone.sg/talk/bochengxiang-heechankim)]
 - [2026.05]  🎉 One paper accepted by <strong>ACM CCS 2026</strong>, hope to see you in the Hague! 
 - [2026.04]  🎉 Two paper accepted by <strong>ACM CCS 2026</strong>,shout out to Dr.Piaoling! 
 - [2026.01]  🎉 One talk about "reverse engineering of ALPC" accepted by <strong>RE//verse 2026</strong>! See you in Orlando, US! [[Talk Abstract](https://reverse-2026.sessionize.com/session/1076809)]
