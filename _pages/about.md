@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello👋! I'm <strong>Bocheng Xiang</strong>, a Ph.D. student in the
+Hello👋! I'm <strong>Bocheng Xiang</strong>, a third-year Ph.D. student in the
 <a href="https://secsys.fudan.edu.cn/">System and Software Security Laboratory</a>
 at Fudan University, advised by Prof. <a href="https://yuanxzhang.github.io/">Yuan Zhang</a>.
 I'm the speaker in Blackhat USA / Europe, PoC, and Re//verse. I am also the captain of Whitzard, the CTF team of Fudan University, and a former member of <a href="https://ctftime.org/team/87469/">Dubhe</a>.
