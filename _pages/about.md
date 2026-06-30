@@ -19,13 +19,13 @@ redirect_from:
 Hello👋! I'm <strong>Bocheng Xiang</strong>, a Ph.D. student in the
 <a href="https://secsys.fudan.edu.cn/">System and Software Security Laboratory</a>
 at Fudan University, advised by Prof. <a href="https://yuanxzhang.github.io/">Yuan Zhang</a>.
-I'm the speaker in Blackhat USA / Europe, and PoC. I am also the captain of Whitzard, the CTF team of Fudan University, and a former member of <a href="https://ctftime.org/team/87469/">Dubhe</a>.
+I'm the speaker in Blackhat USA / Europe, PoC, and Re//verse. I am also the captain of Whitzard, the CTF team of Fudan University, and a former member of <a href="https://ctftime.org/team/87469/">Dubhe</a>.
 
-My research interests span <strong>Web security</strong>, <strong>operating system security</strong>, and <strong>Agent security</strong>. To date, I have published five papers at top-tier security conferences, in <em>USENIX Security、NDSS、CCS</em>. In addition to academic research, I have discovered hundreds of high-impact 0-day vulnerabilities, which have been acknowledged in security advisories by major technology companies, including Apple, Microsoft, Intel, HP, Tencent, and VMware. Many of these vulnerabilities have received monetary rewards, with my total bug bounty earnings exceeding <strong>$100,000</strong>.  
+My research interests span <strong>operating system security</strong>, <strong>web security</strong>, and <strong>agent security</strong>. To date, I have published six papers at top-tier security conferences, in <em>USENIX Security、NDSS、CCS</em>. In addition to academic research, I have discovered hundreds of high-impact 0-day vulnerabilities, which have been acknowledged in security advisories by major technology companies, including Apple, Microsoft, Intel, HP, Tencent, and VMware. Many of these vulnerabilities have received monetary rewards, with my total bug bounty earnings exceeding <strong>$100,000</strong>.  
 Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
 
 # 🔥 News
-- [2026.06]  🎉 One talk about "Kernal and Userland Logic LPE in Windows" accepted by <strong>offbyone</strong>! See you in Singapore! [[Talk Abstract](https://offbyone.sg/talk/bochengxiang-heechankim)]
+- [2026.06]  🎉 One talk about "Kernel and Userland Logic LPE in Windows" accepted by <strong>offbyone</strong>! See you in Singapore! [[Talk Abstract](https://offbyone.sg/talk/bochengxiang-heechankim)]
 - [2026.05]  🎉 One paper accepted by <strong>ACM CCS 2026</strong>, hope to see you in the Hague! 
 - [2026.04]  🎉 Two paper accepted by <strong>ACM CCS 2026</strong>,shout out to Dr.Piaoling! 
 - [2026.01]  🎉 One talk about "reverse engineering of ALPC" accepted by <strong>RE//verse 2026</strong>! See you in Orlando, US! [[Talk Abstract](https://reverse-2026.sessionize.com/session/1076809)]
