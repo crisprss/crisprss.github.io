@@ -25,6 +25,7 @@ My research interests span <strong>operating system security</strong>, <strong>w
 Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
 
 # 🔥 News
+- [2026.06]  🎉 Talk also accepted at <a href="https://defcon.org/">DEF CON 34</a>: "Chaining Logical Bugs for Reliable Windows LPE"!
 - [2026.06]  🎉 One talk about "Kernel and Userland Logic LPE in Windows" accepted by <strong>offbyone</strong>! See you in Singapore! [[Talk Abstract](https://offbyone.sg/talk/bochengxiang-heechankim)]
 - [2026.05]  🎉 One paper accepted by <strong>ACM CCS 2026</strong>, hope to see you in the Hague! 
 - [2026.04]  🎉 Two paper accepted by <strong>ACM CCS 2026</strong>,shout out to Dr.Piaoling! 
@@ -74,13 +75,15 @@ Zihan Lin, Yuan Zhang, Jiarun Dai, Xinyou Huang, <u>Bocheng Xiang</u>, Guanglian
 -->
 
 # 💬 Conferences 
-[2025.08] <a href="https://blackhat.com/us-25/briefings/schedule/#detecting-taint-style-vulnerabilities-in-microservice-structured-web-applications-46427">Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications</a>  <strong>Blackhat USA 2025</strong>
+[2025.08] <a href="https://blackhat.com/us-25/briefings/schedule/#detecting-taint-style-vulnerabilities-in-microservice-structured-web-applications-46427">Detecting Taint-Style Vulnerabilities in Microservice-Structured Web Applications</a>  <strong>Blackhat USA 2025</strong>, Slide: [Here](https://i.blackhat.com/BH-USA-25/Presentations/USA-25-Liu-Detecting-Taint-Style-Vulnerabilities-in-Microservice-Structured-Web-Applications.pdf)
 
 [2025.11] <a href="https://powerofcommunity.net/2025/talk/bocheng-xiang-heechan-kim.html">Follow the Link: Building Full-Chain Local Privilege Escalation on Windows</a> <strong>PoC 2025</strong>
 
-[2025.12] <a href="https://blackhat.com/eu-25/briefings/schedule/#make-agent-defeat-agent-automatic-detection-of-taint-style-vulnerabilities-in-llm-based-agents-48117">Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents</a> <strong>Blackhat Europe 2025</strong>
+[2025.12] <a href="https://blackhat.com/eu-25/briefings/schedule/#make-agent-defeat-agent-automatic-detection-of-taint-style-vulnerabilities-in-llm-based-agents-48117">Make Agent Defeat Agent: Automatic Detection of Taint-Style Vulnerabilities in LLM-based Agents</a> <strong>Blackhat Europe 2025</strong>, Slide: [Here](https://i.blackhat.com/BH-EU-25/eu-25-FengyuLiu-Make-Agent-Defeat-Agent-Autom.pdf)
 
 [2026.3] <a href="https://reverse-2026.sessionize.com/session/1076809">Reverse-Engineering Windows Services for Full-Chain LPE</a> <strong>Re//verse 2026</strong> , Youtube Video: [Here](https://www.youtube.com/watch?v=kGZp64sYQvM&t=19s)
+
+[2026.9] <a href="https://offbyone.sg/talk/bochengxiang-heechankim">Chaining Logical Bugs for Reliable Windows LPE</a> <strong>Offbyone 2026</strong> , TBA.
 
 # 📖 Educations
 - Ph.D. in National Security, 2023-2028 <em>(expected)</em>
