@@ -19,7 +19,7 @@ redirect_from:
 Hello👋! I'm <strong>Bocheng Xiang</strong>, a third-year Ph.D. student in the
 <a href="https://secsys.fudan.edu.cn/">System and Software Security Laboratory</a>
 at Fudan University, advised by Prof. <a href="https://yuanxzhang.github.io/">Yuan Zhang</a>.
-I'm the speaker in Blackhat USA / Europe, PoC, and Re//verse. I am also the captain of Whitzard, the CTF team of Fudan University, and a former member of <a href="https://ctftime.org/team/87469/">Dubhe</a>.
+I was the speaker in Blackhat USA / Europe, PoC, and Re//verse, offbyone, and DEFCON. I am also the captain of Whitzard, the CTF team of Fudan University, and a former member of <a href="https://ctftime.org/team/87469/">Dubhe</a>.
 
 My research interests span <strong>operating system security</strong>, <strong>web security</strong>, and <strong>agent security</strong>. To date, I have published six papers at top-tier security conferences, in <em>USENIX Security、NDSS、CCS</em>. In addition to academic research, I have discovered hundreds of high-impact 0-day vulnerabilities, which have been acknowledged in security advisories by major technology companies, including Apple, Microsoft, Intel, HP, Tencent, and VMware. Many of these vulnerabilities have received monetary rewards, with my total bug bounty earnings exceeding <strong>$100,000</strong>.  
 Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
@@ -83,7 +83,11 @@ Zihan Lin, Yuan Zhang, Jiarun Dai, Xinyou Huang, <u>Bocheng Xiang</u>, Guanglian
 
 [2026.3] <a href="https://reverse-2026.sessionize.com/session/1076809">Reverse-Engineering Windows Services for Full-Chain LPE</a> <strong>Re//verse 2026</strong> , Youtube Video: [Here](https://www.youtube.com/watch?v=kGZp64sYQvM&t=19s)
 
+[2026.8] <a href="https://defcon.org/html/defcon-34/dc-34-speakers.html#content_66671">Chaining Logical Bugs for Reliable Windows LPE</a> <strong>DEFCON 34</strong> , Vegas, USA.
+
 [2026.9] <a href="https://offbyone.sg/talk/bochengxiang-heechankim">Chaining Logical Bugs for Reliable Windows LPE</a> <strong>Offbyone 2026</strong> , TBA.
+
+
 
 # 📖 Educations
 - Ph.D. in National Security, 2023-2028 <em>(expected)</em>
