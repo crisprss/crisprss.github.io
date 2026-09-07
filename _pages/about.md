@@ -25,6 +25,7 @@ My research interests span <strong>operating system security</strong>, <strong>w
 Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
 
 # 🔥 News
+- [2026.09]  🎉 Our team get ¥40000+ bug bounty in <a href="https://twcup.cverc.org.cn/">Tianwang Cup</a>
 - [2026.06]  🎉 Talk also accepted at <a href="https://defcon.org/">DEF CON 34</a>: "Chaining Logical Bugs for Reliable Windows LPE"!
 - [2026.06]  🎉 One talk about "Kernel and Userland Logic LPE in Windows" accepted by <strong>offbyone</strong>! See you in Singapore! [[Talk Abstract](https://offbyone.sg/talk/bochengxiang-heechankim)]
 - [2026.05]  🎉 One paper accepted by <strong>ACM CCS 2026</strong>, hope to see you in the Hague! 
