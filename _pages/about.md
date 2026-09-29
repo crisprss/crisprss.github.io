@@ -44,7 +44,7 @@ Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
 
 
 # 📝 Publications 
-<span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">CCS'26</span> **From Fix to Flaw: Understanding and Revealing Incomplete Patches for Link Following Vulnerabilities** [To be appeared]  
+<span style="background-color:#1f4e78; color:white; padding:2px 6px; border-radius:4px; font-size:0.9em;">CCS'26</span> **From Fix to Flaw: Understanding and Revealing Incomplete Patches for Link Following Vulnerabilities** [[PDF](/paper/linkdiff.pdf)]  
 <u>Bocheng Xiang</u>, Yuan Zhang, Hao Huang, Youkun Shi.  
 *In Proceedings of the 33rd ACM Conference on Computer and Communications Security (CCS), November 2026. <span style="color:#b30000;">(CCF-A)</span>  
 
