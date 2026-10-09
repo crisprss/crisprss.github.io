@@ -19,7 +19,7 @@ redirect_from:
 Hello👋! I'm <strong>Bocheng Xiang</strong>, a third-year Ph.D. student in the
 <a href="https://secsys.fudan.edu.cn/">System and Software Security Laboratory</a>
 at Fudan University, advised by Prof. <a href="https://yuanxzhang.github.io/">Yuan Zhang</a>.
-I was the speaker in Blackhat USA / Europe, PoC, and Re//verse, offbyone, and DEFCON. I am also the captain of Whitzard, the CTF team of Fudan University, and a former member of <a href="https://ctftime.org/team/87469/">Dubhe</a>.
+I was the speaker in DEF CON / Blackhat USA / Europe, PoC, and Re//verse, offbyone. I am also the captain of Whitzard, the CTF team of Fudan University, and a former member of <a href="https://ctftime.org/team/87469/">Dubhe</a>.
 
 My research interests span <strong>operating system security</strong>, <strong>web security</strong>, and <strong>agent security</strong>. To date, I have published six papers at top-tier security conferences, in <em>USENIX Security、NDSS、CCS</em>. In addition to academic research, I have discovered hundreds of high-impact 0-day vulnerabilities, which have been acknowledged in security advisories by major technology companies, including Apple, Microsoft, Intel, HP, Tencent, and VMware. Many of these vulnerabilities have received monetary rewards, with my total bug bounty earnings exceeding <strong>$100,000</strong>.  
 Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
@@ -27,7 +27,7 @@ Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
 # 🔥 News
 - [2026.09]  🎉 I am so honored to have been selected for the <a href="https://www.sigsac.org/ccs/CCS2026/call-for/call-for-young-scholars-development-program.html">ACM CCS 2026 Young Scholars Development Program (YSDP)</a>.
 - [2026.09]  🎉 Our team get ¥40000+ bug bounty in <a href="https://twcup.cverc.org.cn/">Tianwang Cup</a>
-- [2026.06]  🎉 Talk also accepted at <a href="https://defcon.org/">DEF CON 34</a>: "Chaining Logical Bugs for Reliable Windows LPE"!
+- [2026.06]  🎉 Talk also accepted at <a href="https://media.defcon.org/DEF%20CON%2034/DEF%20CON%2034%20presentations">DEF CON 34</a>: "Chaining Logical Bugs for Reliable Windows LPE"!
 - [2026.06]  🎉 One talk about "Kernel and Userland Logic LPE in Windows" accepted by <strong>offbyone</strong>! See you in Singapore! [[Talk Abstract](https://offbyone.sg/talk/bochengxiang-heechankim)]
 - [2026.05]  🎉 One paper accepted by <strong>ACM CCS 2026</strong>, hope to see you in the Hague! 
 - [2026.04]  🎉 Two paper accepted by <strong>ACM CCS 2026</strong>,shout out to Dr.Piaoling! 
