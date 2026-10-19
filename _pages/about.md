@@ -25,6 +25,7 @@ My research interests span <strong>operating system security</strong>, <strong>w
 Here is my CVE list: [CVEs of BoCheng Xiang](https://github.com/crisprss/CVEs)
 
 # 🔥 News
+- [2026.10]  🎉 One talk about TrustInstaller Service LPE in Windows accepted by <strong>PoC 2026</strong>! See you in Seoul, South Korea! [[Talk Abstract](https://powerofcommunity.net/talk/2026/trustfall)]
 - [2026.09]  🎉 I am so honored to have been selected for the <a href="https://www.sigsac.org/ccs/CCS2026/call-for/call-for-young-scholars-development-program.html">ACM CCS 2026 Young Scholars Development Program (YSDP)</a>.
 - [2026.09]  🎉 Our team get ¥40000+ bug bounty in <a href="https://twcup.cverc.org.cn/">Tianwang Cup</a>
 - [2026.06]  🎉 Talk also accepted at <a href="https://media.defcon.org/DEF%20CON%2034/DEF%20CON%2034%20presentations">DEF CON 34</a>: "Chaining Logical Bugs for Reliable Windows LPE"!
