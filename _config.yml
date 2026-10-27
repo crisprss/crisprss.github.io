@@ -93,6 +93,8 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - 国赛.md
+  - 白泽.pdf
 keep_files:
   - .git
   - .svn
